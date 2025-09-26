@@ -1,4 +1,4 @@
-package packages.defaultsMethods;
+package packages.defaultsMethods.licao01;
 
 public interface AparelhoEletronico {
 	//metodo abstrato sem corpo
