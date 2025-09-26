@@ -1,9 +1,7 @@
 package packages.javaswing.GridLayout;
 
-import java.awt.Dimension;
 import java.awt.GridLayout;
 
-import javax.swing.Box;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
